@@ -19,7 +19,12 @@ skin-cancer-3d-hybrid/
 ├── Skin Cancer detection.ipynb     
 ├── README.md                         
 ├── requirements.txt                  
-├── Research Paper.pdf                                                
+├── Research Paper.pdf
+├── Result metric asset
+    ├── 2D Model Accuracy and AUC Score by Class.jpeg
+    ├── Confusion Matrix - 2D Ensemble Model (100,000 Benign & 100,000 Malignant).jpeg
+    ├── 3D Accuracy and Loss Distribution by Class.jpeg
+    ├── Confusion Matrix - Hybrid 3D CNN model (Validation, 84% Accuracy).jpeg                                        
 
 ```
 
