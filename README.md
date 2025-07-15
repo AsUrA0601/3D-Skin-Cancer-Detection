@@ -127,8 +127,8 @@ This project helps improve classification performance and clinical interpretabil
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/3d-skin-cancer-detection.git
-cd 3d-skin-cancer-detection
+   git clone https://github.com/yourusername/skin-cancer-3d-hybrid.git
+   cd skin-cancer-3d-hybrid
 ```
 
 2. **Install dependencies**
@@ -152,13 +152,3 @@ jupyter notebook notebooks/skin_cancer_detection.ipynb
 **Aaryan Sinha**
 Final Year Computer Science Engineering Student
 Research Intern at IIT Indore (Deep Learning - Image Processing)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Let me know if you'd like a markdown or `.md` file version downloaded.
