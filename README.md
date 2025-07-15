@@ -150,5 +150,6 @@ jupyter notebook notebooks/skin_cancer_detection.ipynb
 ## 👨‍💻 Author
 
 **Aaryan Sinha**
-Final Year Computer Science Engineering Student
-Research Intern at IIT Indore (Deep Learning - Image Processing)
+
+* Final Year Computer Science Engineering Student
+* Research Intern at IIT Indore (Deep Learning - Image Processing)
