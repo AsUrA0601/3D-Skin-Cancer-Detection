@@ -1,8 +1,3 @@
-# 3D-Skin-Cancer-Detection
-Hybrid skin cancer detection using 2D ensemble (EfficientNetV2 + ResNet50) and synthetic 3D CNN analysis. Converts single 2D dermoscopic images into 3D volumes via monodepth augmentation. Trained on ISIC 2024 dataset for dual-path prediction: planar and volumetric insights.
-
----
-
 # 🧠 3D Skin Cancer Detection using Synthetic Depth Augmentation and Deep Learning
 
 ## 📌 Overview
@@ -21,10 +16,10 @@ The combination of both planar and depth analysis allows for robust predictions 
 ```
 skin-cancer-3d-hybrid/
 │
-├── skin_cancer_3d_pipeline.ipynb     
+├── Skin Cancer detection.ipynb     
 ├── README.md                         
 ├── requirements.txt                  
-├── Research Paper                                                
+├── Research Paper.pdf                                                
 
 ```
 
