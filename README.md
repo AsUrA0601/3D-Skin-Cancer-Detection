@@ -19,20 +19,13 @@ The combination of both planar and depth analysis allows for robust predictions 
 ## 📁 Project Structure
 
 ```
-├── dataset/
-│   ├── train-image/
-│   ├── test-image/
-│   ├── train-metadata.csv
-│   └── test-metadata.csv
-├── models/
-│   ├── 2d_model.h5
-│   └── 3d_model.h5
-├── notebooks/
-│   └── skin_cancer_detection.ipynb
-├── README.md
-├── requirements.txt
-└── utils/
-    └── preprocessing.py
+skin-cancer-3d-hybrid/
+│
+├── skin_cancer_3d_pipeline.ipynb     
+├── README.md                         
+├── requirements.txt                  
+├── Research Paper                                                
+
 ```
 
 ---
